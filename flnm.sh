@@ -6,3 +6,4 @@ then echo "habeeb is also pottan"
 else echo "The file does not exist"
 fi
 fi
+echo "habeeb"
